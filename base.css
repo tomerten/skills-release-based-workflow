@@ -4,7 +4,6 @@
 */
 
 html,
-body,
 div,
 span,
 applet,
@@ -102,6 +101,10 @@ header,
 hgroup,
 menu,
 nav,
+
+body {
+   background-color: black;
+},
 section {
   display: block;
 }
